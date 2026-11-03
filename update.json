@@ -1,11 +1,9 @@
 {
   "version": "1.0.0",
-  "installer_url": "https://github.com/TWOJ_LOGIN/MapFlow-Releases/releases/download/v1.0.0/MapFlow_Setup_1.0.0.exe",
-  "sha256": "UZUPELNIJ_SHA256_INSTALATORA",
+  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.0.0/MapFlow_Setup_1.0.0.exe",
+  "sha256": "...",
   "notes": [
-    "Pierwsze stabilne wydanie MapFlow 1.0.0",
-    "Raster WMS: KIUT, BDOT500 i własne źródła WMS",
-    "Dane EGiB WFS: działki, budynki i numery działek do DXF"
+    "Pierwsze stabilne wydanie MapFlow"
   ],
   "required": false
 }
