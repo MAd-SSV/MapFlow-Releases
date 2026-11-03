@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "installer_url": "https://api.github.com/repos/MAd-SSV/MapFlow-Releases/releases/assets/705538986",
-  "sha256": "234cdf341f1b1e4e029ef09cf0ccdb505a49187c1ad0edf390ac3fd496dc1093",
+  "version": "1.1.1",
+  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.1.1/MapFlow_Setup_1.1.1.exe",
+  "sha256": "039791e8291e0510f3241d423f96a635cfb7393c7b75493d429edddb6867b12a",
   "notes": [
-    "Dodano możliwość tworzenia dodatkowych zakresów",
+    "Zmiana interfejsu poprzez dodanie nowych modulow tematycznych",
     "Zoptymalizowano pracę programu"
   ],
   "required": false
