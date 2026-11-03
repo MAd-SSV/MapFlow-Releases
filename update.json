@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.0.1/MapFlow_Setup_1.0.1.exe",
-  "sha256": "80e7cf15ef661ef2c20f33cb7c993f99a5da3c47819c21ec2e9e3982a78eb8df",
+  "version": "1.1.0",
+  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.0.1/MapFlow_Setup_1.1.0.exe",
+  "sha256": "234cdf341f1b1e4e029ef09cf0ccdb505a49187c1ad0edf390ac3fd496dc1093",
   "notes": [
-    "Poprawki wizualne",
-    "Bardziej czytelny wybór układów współrzędnych i zakresu"
+    "Dadano mozliwosc tworzenia dodatkowych zakresow",
+    "Zoptymalizowanie pracy programu"
   ],
   "required": false
 }
