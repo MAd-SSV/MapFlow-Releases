@@ -3,8 +3,8 @@
   "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.0.1/MapFlow_Setup_1.0.1.exe",
   "sha256": "80e7cf15ef661ef2c20f33cb7c993f99a5da3c47819c21ec2e9e3982a78eb8df",
   "notes": [
-    "Poprawki wizualne"
-    "Bardziej czytelny wybor ukladow wspolrzednych, zakresu"
+    "Poprawki wizualne",
+    "Bardziej czytelny wybór układów współrzędnych i zakresu"
   ],
   "required": false
 }
