@@ -1,10 +1,10 @@
 {
   "version": "1.2.0",
   "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.2.0/MapFlow_Setup_1.2.0.exe",
-  "sha256": "039791e8291e0510f3241d423f96a635cfb7393c7b75493d429edddb6867b12a",
+  "sha256": "0e17fe65d6f6527312795b4801b5496d8fcb5b34500e0e9cb9c470208c3ce575",
   "notes": [
-    "Zmiana interfejsu poprzez dodanie nowych modulow tematycznych",
-    "Zoptymalizowano pracę programu"
+    "Wlaczenie modulow tematycznych",
+    "Edycja stylow"
   ],
   "required": false
 }
