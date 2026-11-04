@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.2.0/MapFlow_Setup_1.2.0.exe",
-  "sha256": "0e17fe65d6f6527312795b4801b5496d8fcb5b34500e0e9cb9c470208c3ce575",
+  "version": "1.2.2",
+  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.2.2/MapFlow_Setup_1.2.2.exe",
+  "sha256": "9094246af41137d3ee836da4ea6e0ca9869615ca3c55514f065b419c1cd0a842",
   "notes": [
     "Wlaczenie modulow tematycznych",
-    "Edycja stylow"
+    "Dodanie modulu pobierania modelu terenu"
   ],
   "required": false
 }
