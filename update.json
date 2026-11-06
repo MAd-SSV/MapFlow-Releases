@@ -1,10 +1,10 @@
 {
-  "version": "1.2.6",
-  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.2.6/MapFlow_Setup_1.2.6.exe",
-  "sha256": "ede39b7265a072f97c42f6830d47d5550c94bea365edda1f5ef164bf409188ac",
+  "version": "1.4.2",
+  "installer_url": "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v1.4.2/MapFlow_Setup_1.4.2.exe",
+  "sha256": "a1ad5359b1021d433322f7a2fe08cb0ab9d7ba9282e4e8b806d27cc17fec9324",
   "notes": [
-    "Zmiana UX",
-    "Optymalizacja interfejsu"
+    "Dostosowanie do trybu ciemnego w windows z dedykacja",
+    "Moduly planu ogolnego i OSM nie dzialaja"
   ],
   "required": false
 }
