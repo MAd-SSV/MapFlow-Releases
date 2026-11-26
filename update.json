@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.0",
-    "installer_url":  "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v2.0.0/MapFlow_Setup_2.0.0.exe",
-    "sha256":  "033813f3581a9137c6083e3a14a791309e1f08b589b1ec2d06960e09bf365a6b",
+    "version":  "2.1.0",
+    "installer_url":  "https://github.com/MAd-SSV/MapFlow-Releases/releases/download/v2.1.0/MapFlow_Setup_2.1.0.exe",
+    "sha256":  "1ba56c32b572f2e7b382ea55ed85bf4323c6d1422b7749b491b41562be1825c4",
     "notes":  [
 
               ],
